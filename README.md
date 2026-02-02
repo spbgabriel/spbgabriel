@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Gabriel Brandão 👋
 
-<!--
-**spbgabriel/spbgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a **Front-End Developer** in training, currently focused on mastering the art of coding. I’m passionate about building clean, functional web pages and apps that provide great user experiences.
 
-Here are some ideas to get you started:
+- 🛤️ **Current Path:** Front-End Career Track & Specialized Coding Courses.
+- 🛠️ **Building:** Working on small-scale projects to sharpen my logic and UI skills.
+- 🎯 **The Goal:** To build a career in web and app development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack
+* **Languages:** HTML5, CSS and JavaScript
+* **Tools:** Git, VSCode, Figma
+* **Learning:** Front-End career path and complementaty courses for improve my knowledge about JavaScript.
+
+---
+
+### 📂 Featured Projects
+| The Course of the Ember Spire | Point click browser RPG | https://github.com/spbgabriel/the_game |<br>
+| Dungeons and Dragons item finder | A web page build as a search engine to items in dungeons and dragons. | https://github.com/spbgabriel/dnd_item_finder |<br>
+| Babysteps | The ultimate pocket companion for sleep-deprived parents and growing tiny humans. | https://github.com/spbgabriel/babysteps |
+
+---
+
+### 📫 Let's Connect!
+- **Portfolio:** https://gabrielbrandaoportfolio.vercel.app/
+- **LinkedIn:** www.linkedin.com/in/gabobrandao
+- **Email:** gabrielspbrandao@outlook.com
+
+*"Turning lines of code into interactive experiences, one project at a time."*
