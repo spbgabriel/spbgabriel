@@ -24,8 +24,8 @@ I am a **Front-End Developer** in training, currently focused on mastering the a
 ---
 
 ### 📫 Let's Connect!
-- [**Portfolio:**](https://gabrielbrandaoportfolio.vercel.app/)
-- [**LinkedIn:**](www.linkedin.com/in/gabobrandao)
-- [**Email:**](gabrielspbrandao@outlook.com)
+- [**Portfolio**](https://gabrielbrandaoportfolio.vercel.app/)
+- [**LinkedIn**](www.linkedin.com/in/gabobrandao)
+- [**Email**](gabrielspbrandao@outlook.com)
 
 *"Turning lines of code into interactive experiences, one project at a time."*
