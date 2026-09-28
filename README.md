@@ -17,9 +17,7 @@ I am a **Front-End Developer** in training, currently focused on mastering the a
 ---
 
 ### 📂 Featured Projects
-| The Course of the Ember Spire | Point click browser RPG | [the_game](https://github.com/spbgabriel/the_game) |<br>
 | Dungeons and Dragons item finder | A web page build as a search engine to items in dungeons and dragons. | [dnd_item_finder](https://github.com/spbgabriel/dnd_item_finder) |<br>
-| Babysteps | The ultimate pocket companion for sleep-deprived parents and growing tiny humans. | [babysteps](https://github.com/spbgabriel/babysteps) |
 
 ---
 
